@@ -8,6 +8,6 @@ __Instructions:__
 - Open a command line of your choice
 - run `pip install pdfplumber`
 - run `python test_check.py --id [insert your id]`
-- If you want to check for another date than today, add --date YYYYMMDD, e.g. --date 20200820
+- If you want to check for another date than today, add `--date YYYYMMDD`, e.g. `--date 20200820`
 - Cheers!
 '''
