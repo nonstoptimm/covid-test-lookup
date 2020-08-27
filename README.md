@@ -1,5 +1,5 @@
 # COVID19 Test Checker
-Did you get tested for COVID-19 at Berlin Central Station or Berlin ZOB and you're tired of checking their and the hilarious pdf?
+Did you get tested for COVID-19 at Berlin Central Station or Berlin ZOB and you're tired of checking their and the hilarious pdf at [MDI Limbach Berlin](https://mdi-limbach-berlin.de)?
 I totally feel with you, as I had to wait forever to get my test results. Yawn!
 In order to avoid wasting my time, I developed a basic script to check for your test results ... happy waiting!
 
