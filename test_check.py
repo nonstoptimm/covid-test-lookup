@@ -65,7 +65,7 @@ def main():
             except Exception as e:
                 logging.error(f'{e}')
         else:
-            logging.warning(f'Report {date} not available ...')
+            logging.warning(f'Report {args.date} not available ...')
         logging.warning(f'Going to sleep for 5 min...zZz...')
         time.sleep(300)
         logging.warning(f'Uaaaaah...woke up!')
